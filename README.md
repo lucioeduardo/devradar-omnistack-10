@@ -1,1 +1,1 @@
-semanaomnistack10
+# DevRadar - Semana OmniStack 10.0
